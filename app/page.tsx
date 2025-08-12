@@ -167,6 +167,7 @@ export default function HomePage() {
             </div>
           </div>
           <div className="border-t border-gray-800 mt-8 pt-8 text-center text-gray-400">
+            <p>Made with ❤️ by Sahil Vishwakarma</p>
             <p>&copy; 2024 AI Studio. Powered by Google Gemini & Fal AI.</p>
           </div>
         </div>
